@@ -4,11 +4,13 @@
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
+
         {
             "type": "pwa-msedge",
             "request": "launch",
             "name": "Open web_test1.html",
-            "file": "e:\\CVTE\\CodeProjects\\HtmlProjects\\githubDemos\\zmeuropa.github.io\\htmls\\web_test1.html"
+            "file": "e:\\CVTE\\CodeProjects\\HtmlProjects\\githubDemos\\zmeuropa.github.io\\index.html"
         }
     ]
 }
