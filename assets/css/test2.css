@@ -12,3 +12,15 @@ h1 {
     color: #00539f;
     text-shadow: 3px 3px 1px grey;
 }
+
+body{
+    margin: 0 auto;
+    background-color: red;
+    padding: 0 20px 20px 20px;
+    border: 3px solid grey;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
